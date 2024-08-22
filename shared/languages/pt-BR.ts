@@ -559,7 +559,7 @@ export const PT_BR = {
    InternationalSpaceStation: "Estação Espacial Internacional",
    InternationalSpaceStationDesc: "Todos os edifícios recebem +5 Multiplicador de Armazenamento. Esta maravilha pode ser atualizada e cada atualização adicional fornece +1 Multiplicador de Armazenamento para todos os edifícios.",
    Internet: "Internet",
-   InternetServiceProvider: "Internet Service Provider",
+   InternetServiceProvider: "Provedor de Serviços de Internet",
    InverseSelection: "Inverso",
    Iron: "Ferro",
    IronAge: "Idade do Ferro",
